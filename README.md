@@ -4,6 +4,9 @@
 
 DayCraft is a simple, lightweight, and intuitive Android To-Do List application built to help users manage daily tasks efficiently and stay organized.
 
+### Latest Stable Version
+👉 **[Download the Latest APK (v1.0.0)](https://github.com/yiralcraft0/DayCraft/releases/tag/v1.0.0)**
+
 ---
 
 ## 📱 Screenshots
