@@ -40,11 +40,11 @@ git clone https://github.com/yiralcraft0/DayCraft.git
 ```
 ## Project Structure
 DayCraft/
-│
-├── app/
-│   ├── java/        # Java source code
-│   ├── res/         # XML layouts and resources
-│   └── manifests/   # Android manifest
-│
-├── build.gradle
-└── README.md
+-│
+-├── -app/
+-│ ├── -java/ # Java source code
+-│ ├── -res/ # XML layouts and resources
+-│ └── -manifests/ # Android manifest
+-│
+-├── -build.gradle
+-└── -README.md
